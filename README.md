@@ -12,8 +12,8 @@ input1:
 
 input2:    
 -------    
-94133,94133. 
-94200,94299. 
-94226,94339. 
+94133,94133<br/> 
+94200,94299<br/> 
+94226,94339<br/> 
 
 to dispaly the result, enter quit as an input. 
