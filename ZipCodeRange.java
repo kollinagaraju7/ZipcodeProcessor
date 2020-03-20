@@ -21,6 +21,4 @@ public class ZipCodeRange {
     public String toString() {
         return "[" + lowerValue + ", " + upperValue + "]";
     }
-
-
 }
