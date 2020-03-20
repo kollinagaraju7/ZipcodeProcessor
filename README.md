@@ -6,9 +6,9 @@ Provide the input in the format given below.
 
 input1:    
 -------    
-94133,94133. 
-94200,94299. 
-94600,94699. 
+94133,94133<br/> 
+94200,94299<br/> 
+94600,94699<br/> 
 
 input2:    
 -------    
