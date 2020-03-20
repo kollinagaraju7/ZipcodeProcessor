@@ -1,6 +1,6 @@
 To excute this application, Download the Jar file, go to the download location, and excute command         
 
-java -jar Sonama.jar. 
+java -jar Sonama.jar<br/> 
 
 Provide the input in the format given below. 
 
